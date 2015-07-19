@@ -1,2 +1,2 @@
-PieCrust==2.0.0a5
+PieCrust>=2.0.0a5
 SQLAlchemy==0.9.8
